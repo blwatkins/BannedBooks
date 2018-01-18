@@ -11,3 +11,4 @@ PRAGMA foreign_keys = ON;
 .read work_written.sqlite.sql
 .read state.sqlite.sql
 .read institution.sqlite.sql
+.read challenge.sqlite.sql
