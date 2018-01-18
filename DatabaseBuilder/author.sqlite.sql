@@ -1,0 +1,3 @@
+-- Banned and Challenged Books
+-- Author Table
+-- Script for creating the author table
