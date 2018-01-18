@@ -8,3 +8,4 @@ PRAGMA foreign_keys = ON;
 
 .read author.sqlite.sql
 .read work.sqlite.sql
+.read work_written.sqlite.sql
